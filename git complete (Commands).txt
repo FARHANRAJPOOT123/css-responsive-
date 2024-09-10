@@ -1,0 +1,15 @@
+GIT NOTES
+
+First initialization(working directory), second (staging area), third (Repo) and four (Git Hub) for push 
+
+1) configure your name: $git config --global user.name "Farhan Hassan"
+
+2)configure your email: $git config --global user.email "farhanarab675@gmail.com
+
+3)to check status whether our user name and user email is connected or not : git config --list
+
+4)for initialization: git init
+
+5) for staging area (ALL FILES) :git add .
+
+6) for commit: git commit -m "commit message"
