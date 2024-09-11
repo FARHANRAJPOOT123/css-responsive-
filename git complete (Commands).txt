@@ -13,3 +13,9 @@ First initialization(working directory), second (staging area), third (Repo) and
 5) for staging area (ALL FILES) :git add .
 
 6) for commit: git commit -m "commit message"
+
+7) for update changes: git log
+
+8) for see for all files : ls
+
+9) for see for all hidden files : ls-a
